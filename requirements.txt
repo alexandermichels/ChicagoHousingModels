@@ -1,0 +1,14 @@
+bokeh
+dask[distributed]
+folium
+ipywidgets
+matplotlib
+notebook
+numpy
+pandas
+pydot
+RISE
+seaborn
+sklearn
+tqdm
+urbansim
