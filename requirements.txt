@@ -3,6 +3,7 @@ dask[distributed]
 folium
 ipywidgets
 matplotlib
+mgwr
 notebook
 numpy
 pandas
@@ -12,4 +13,3 @@ RISE
 seaborn
 sklearn
 tqdm
-urbansim
