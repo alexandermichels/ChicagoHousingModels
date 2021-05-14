@@ -39,6 +39,15 @@ This is a repository that focuses on applying multiple spatial and non-spatial m
 ├── notebooks
 │   ├── DataWrangling.ipynb
 │   ├── GWR.ipynb
+│   ├── htmls
+│   │   ├── DataWrangling.html
+│   │   ├── GWR.html
+│   │   ├── OLS.html
+│   │   ├── SpatialErrorModel.html
+│   │   ├── SpatialErrorModelRegimes.html
+│   │   ├── SpatialLagModel.html
+│   │   ├── SpatialLagModelRegimes.html
+│   │   └── StepwiseOLS.html
 │   ├── OLS.ipynb
 │   ├── RandomForestRegression.ipynb
 │   ├── SpatialErrorModel.ipynb

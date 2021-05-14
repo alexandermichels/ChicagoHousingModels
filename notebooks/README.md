@@ -1,6 +1,6 @@
 # Notebooks
 
-This folder contains the notebooks to process the data and run the housing price models.
+This folder contains the notebooks to process the data and run the housing price models. The `html` folder contains HTML versions of the notebooks if you want to read through them.
 
 What's inside?
 
@@ -9,6 +9,15 @@ What's inside?
 .
 ├── DataWrangling.ipynb
 ├── GWR.ipynb
+├── htmls
+│   ├── DataWrangling.html
+│   ├── GWR.html
+│   ├── OLS.html
+│   ├── SpatialErrorModel.html
+│   ├── SpatialErrorModelRegimes.html
+│   ├── SpatialLagModel.html
+│   ├── SpatialLagModelRegimes.html
+│   └── StepwiseOLS.html
 ├── OLS.ipynb
 ├── RandomForestRegression.ipynb
 ├── SpatialErrorModel.ipynb
