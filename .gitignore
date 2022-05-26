@@ -2,6 +2,7 @@ dask-worker-space/
 data/Cook_County_Assessor_s_Residential_Property_Characteristics.csv
 data/Cook_County_Assessors_Residential_Sales_Data_2020.csv
 data/processed/*
+!data/processed/Cleaned_Chicago_Sales.zip
 *.pkl
 # Byte-compiled / optimized / DLL files
 __pycache__/
